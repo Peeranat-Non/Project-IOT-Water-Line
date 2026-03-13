@@ -1,8 +1,7 @@
 # Project IOT Water Line
 
-โปรเจกต์ระบบตรวจวัดระดับน้ำด้วย IoT โดยใช้ไมโครคอนโทรลเลอร์และเซนเซอร์วัดระดับน้ำ เพื่อตรวจสอบปริมาณน้ำในถังและแจ้งเตือนเมื่อระดับน้ำต่ำกว่าที่กำหนด
+## Project Poster
 
-## Poster
-สามารถดูรายละเอียดโปรเจกต์ได้จาก Poster ด้านล่าง
+![Project Poster](poster.png)
 
-[📄 View Project Poster](Poster.pdf)
+[Download Full Poster](Poster.pdf)
