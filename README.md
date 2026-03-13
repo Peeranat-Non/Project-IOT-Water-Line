@@ -9,6 +9,6 @@
 
 ## Project Poster
 
-![Project Poster](poster.png)
+![Project Poster](Screenshot 2026-03-14 040548.png)
 
 📄 [View Full Poster](Poster.pdf)
