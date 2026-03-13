@@ -8,4 +8,7 @@
 - Water Level Sensor
 
 ## Project Poster
-[📄 View Poster](Poster.pdf)
+
+![Project Poster](poster.png)
+
+📄 [View Full Poster](Poster.pdf)
