@@ -1,7 +1,11 @@
-# Project IOT Water Line
+# IOT Water Level Monitoring System
+
+โปรเจกต์ระบบตรวจวัดระดับน้ำด้วย IoT เพื่อช่วยตรวจสอบปริมาณน้ำในถังแบบ Real-time โดยใช้เซนเซอร์วัดระดับน้ำและไมโครคอนโทรลเลอร์
+
+## Technologies
+- Arduino / ESP8266
+- C++
+- Water Level Sensor
 
 ## Project Poster
-
-![Project Poster](poster.png)
-
-[Download Full Poster](Poster.pdf)
+[📄 View Poster](Poster.pdf)
